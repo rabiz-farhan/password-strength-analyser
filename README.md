@@ -12,4 +12,10 @@
  Conditional logic
  Function-based program structure
  Debugging and fixing indentation errors
+# Example of expected output after running the code
+ Enter your password : Goodbye987
+ Medium strength password
+ Password strength: 80%
+ Suggestions:
+ -Add special character
 
